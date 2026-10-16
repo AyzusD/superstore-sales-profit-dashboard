@@ -343,7 +343,6 @@ This is the core of the analysis. Seven factors were tested. **Discounting is by
 ## Author
 
 **Ayush Denzil Tirkey**
-PGDM (Human Resources Management), XISS Ranchi
 GitHub: [@AyzusD](https://github.com/AyzusD)
 
 Feedback and suggestions are welcome. If you found this useful, a star on the repository is appreciated.
